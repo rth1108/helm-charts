@@ -1,3 +1,11 @@
 apiVersion: v1
-entries: {}
-generated: "2023-04-23T06:10:51.481469456+09:00"
+entries:
+  test-helm:
+  - apiVersion: v2
+    created: "2023-04-23T06:20:50.673207405+09:00"
+    digest: 5fe3bbec0c751688b676fe56c96fb835cc69b66b9c631917f9900f0c54a54f39
+    name: test-helm
+    urls:
+    - test-helm-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-04-23T06:20:50.657008565+09:00"
